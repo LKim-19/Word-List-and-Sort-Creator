@@ -14,6 +14,6 @@ for line in fh:
         if y not in lst:
             lst.append(y)
 
-lst.sort()ß
+lst.sort()
 
 print(lst)
